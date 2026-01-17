@@ -1,3 +1,7 @@
 # Data
 
-This directory is intentionally kept in version control to store datasets or generated artifacts.
+This directory is intentionally kept in version control for datasets and assets.
+
+## Images
+
+Store pictures here (for example: `.png`, `.jpg`, `.jpeg`, `.gif`).
